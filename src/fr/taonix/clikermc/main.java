@@ -12,7 +12,7 @@ public class main extends JavaPlugin implements Listener {
 	@Override
 	public void onEnable() {
 		
-		System.out.println("Le plugin ClikerMC a bien démarer, pour commencer : /cliker");
+		System.out.println("Le plugin ClikerMC a bien dï¿½marer, pour commencer : /cliker");
 		getCommand("cliker").setExecutor(new cliker());
 		getServer().getPluginManager().registerEvents(new ClikerMenu(), this);
 		
@@ -23,14 +23,14 @@ public class main extends JavaPlugin implements Listener {
 	@Override
 	public void onDisable() {
 		
-		System.out.println("Le plugin ClikerMC vient de se désactivé.");
+		System.out.println("Le plugin ClikerMC vient de se dï¿½sactivï¿½.");
 		
 		}
 	
 	@Override
 	public void onLoad() {
 		
-		Bukkit.broadcastMessage("§4Pour commencer avec le plugin : §6§l/cliker");
+		Bukkit.broadcastMessage("ï¿½4Pour commencer avec le plugin : ï¿½6ï¿½l/cliker");
 	}
 	
 }

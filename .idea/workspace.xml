@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f17157e-79f4-4b30-9450-1df654b85149" name="Default Changelist" comment="" />
+    <list default="true" id="9f17157e-79f4-4b30-9450-1df654b85149" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClikerMC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ClikerMC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/taonix/clikermc/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/taonix/clikermc/main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1aE8N3LnJuuLGJPoGgoGw5HJprc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,7 +27,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Sites web/ratio-co" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ressources/spigot-1.15.2.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -35,13 +48,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="776" y="311" width="424" height="484" key="FileChooserDialogImpl" timestamp="1586293550753">
+    <state x="834" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586646445991">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="311" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1586293550753" />
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1586293487743">
+    <state x="834" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1586646445991" />
+    <state x="600" y="129" width="777" height="847" key="CommitChangelistDialog2" timestamp="1586646702976">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1586293487743" />
+    <state x="600" y="129" width="777" height="847" key="CommitChangelistDialog2/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1586646702976" />
+    <state x="776" y="311" width="735" height="484" key="FileChooserDialogImpl" timestamp="1586646636153">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="311" width="735" height="484" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1586646636153" />
+    <state x="476" y="130" width="1024" height="845" key="SettingsEditor" timestamp="1586646646909">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="476" y="130" width="1024" height="845" key="SettingsEditor/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1586646646909" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1586646359020">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1586646359020" />
   </component>
 </project>

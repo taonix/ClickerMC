@@ -1,0 +1,7 @@
+name: ClikerMC
+version: 1.0
+author: Taonix
+main: fr.taonix.clikermc.main
+commands:
+  cliker:
+    description: demarer le cklier
